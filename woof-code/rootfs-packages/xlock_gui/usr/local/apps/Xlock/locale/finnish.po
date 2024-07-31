@@ -1,0 +1,48 @@
+
+#!/bin/sh
+# Xlockmore gui translation file
+# language fi_FI
+
+##################################
+# Password dialog
+#
+export LOC_PASSWINDOW="Nollaa Xlockin salasana"
+export LOC_PASSTEXT="     Ensimmäistä kertaa, kun käytät Xlockia, se tulee kysymään avaimesta, mikä tarkoittaa
+salasanaa. Muuttaaksesi salasanan, sinun tulee poistaa
+file $HOME/.xlockrc, siinä oli kaikki, mitä tämä painike tekee."
+export LOC_CLEARBUTTON="Klikkaa nollataksesi salasanan"
+
+##################################
+# Configuration window
+#
+export LOC_PRETEXT1="\"Tässä ikkunassa voit määrittää Xlockia näytönlukitusohjelmana.
+Xlock on yksityinen järjestelmä, jonka kutsut manuaalisesti ja
+salasanalla lukituksen avaamiseksi. -- Tämä on se, mitä Xlock tekee. Se näyttää myös
+kauniita kuvia lukituksen jälkeen.
+
+Esikatselun jälkeen, klikkaa OK-painiketta ja valitse haluamasi vaihtoehto...\""
+export LOC_PRETEXT2="\"     Tässä ikkunassa valitset animoidun taustakuvan työpöydällesi.
+Huomaa, että työpöydällä on myös Xlock-kuvake, joka
+lukitsee näytön mutta jättää animaation pyörimään.
+
+Esikatselun jälkeen, klikkaa OK-painiketta ja valitse haluamasi vaihtoehto...\""
+export LOC_KILLBOX="Pysäytä mikä tahansa rullaava animaatio:"
+export LOC_KILLBUTTON="PYSÄYTÄ"
+export LOC_CFGWINDOW="Xlock: nykyinen tila on"
+export LOC_TREE="Tila | Kuvaus"
+# modes
+export LOC_BALL="pomppivia palloja"
+export LOC_BLANK="musta ruutu"
+export LOC_DCLOCK="kelluva digitaalinen kello"
+export LOC_GLOOP="pilaa laavalampusta"
+export LOC_LYAPUNOV="lyapunov-tila"
+export LOC_MANDELBROT="Mandelbrotin joukko"
+export LOC_MATRIX="The Matrix (elokuva)"
+export LOC_PENROSE="kvasijaksollinen laatoitus"
+export LOC_SOLITAIRE="Pasianssi-peli"
+export LOC_SPIRAL="kierteisen pisteen paikka"
+export LOC_SWIRL="animoidut, pyörivät kuviot"
+export LOC_BOMB="pommiajastin, joka kirjaa sinut ulos viiveellä"
+export LOC_RANDOM="satunnainen tila"
+# buttons
+export LOC_PREVIEW="Esikatselu"
