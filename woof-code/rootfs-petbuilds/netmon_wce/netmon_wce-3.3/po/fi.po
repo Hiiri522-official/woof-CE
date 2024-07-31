@@ -1,1 +1,85 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE 2.6.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-28 04:28-0600\n"
+"PO-Revision-Date: 2015-07-28 05:29-0600\n"
+"Last-Translator: nilsonmorales <nilsonmorales@hotmail.com>\n"
+"Language-Team: SPANISH\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
 
+#: netmon_wce.c:23
+msgid "Month"
+msgstr "Kuukausi"
+
+#: netmon_wce.c:193
+msgid "Active interface: "
+msgstr "Aktiivinen käyttöliittymä: "
+
+#: netmon_wce.c:221
+msgid "none "
+msgstr "ei mitään "
+
+#: netmon_wce.c:223
+msgid "Click this icon for network setup"
+msgstr "Klikkaa tätä kuvaketta yhdistääksesi verkkoon"
+
+#: netmon_wce.c:259
+msgid "IP address: "
+msgstr IP-osoite: "
+
+#: netmon_wce.c:269
+msgid "Wireless Strength"
+msgstr "Langaton verkko "
+
+#: netmon_wce.c:313
+msgid "Wifi stats disabled"
+msgstr "Wi-Fi pois päältä"
+
+#: netmon_wce.c:330
+msgid "Wifi Stats unreadable - disable polling in the menu."
+msgstr "Wi-Fi lukukelvoton - poista jatkuva tarkkailu käytöstä valikosta."
+
+#: netmon_wce.c:407
+msgid "Quit"
+msgstr "Lopeta"
+
+#: netmon_wce.c:414
+msgid "Enable wireless device polling"
+msgstr "Salli langaton laitteidenvalvonta"
+
+#: netmon_wce.c:417
+msgid "Disable wireless device polling"
+msgstr "Estä langaton laitteidenvalvonta"
+
+#: netmon_wce.c:424
+msgid "Setup networking"
+msgstr "Verkkoyhteyden määritys"
+
+#: netmon_wce.c:429
+msgid "Network status information"
+msgstr "Verkkoyhteyden tilatietoja"
+
+#: netmon_wce.c:436
+msgid "Disconnect from network"
+msgstr "Katkaise verkkoyhteys"
+
+#: netmon_wce.c:443
+msgid "Reconnect to network"
+msgstr "Uudelleenyhdistä verkkoon"
+
+#: netmon_wce.c:456
+msgid "Note: right-click icon for network menu"
+msgstr "Huomaa: klikkaa hiiren kakkospainikkeella kuvaketta päästäksesi verkkoyhteysvalikkoon"
+
+#: netmon_wce.c:493
+msgid "No active network interfaces"
+msgstr "Ei aktiivisia verkkoliitäntöjä"
