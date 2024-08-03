@@ -2,7 +2,7 @@
 
 Eri versiot Puppy Linuxista:
 
-| Nimi        | Sopii suoritinarkkitehtuureille | Pohjautuu Linux-jakeluun |
+**| Nimi        | Sopii suoritinarkkitehtuureille | Pohjautuu Linux-jakeluun |**
 | FossaPup    | x64                             | Ubuntu                   |
 | BionicPup   | x32, x64                        | Ubuntu                   |
 | F96-CE      | x64                             | Ubuntu                   |
